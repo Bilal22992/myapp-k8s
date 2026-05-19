@@ -3,7 +3,7 @@ kind: Service
 
 metadata:
   name: myapp-service
-  namespace :default
+  namespace: default
 
 spec:
   type: NodePort
